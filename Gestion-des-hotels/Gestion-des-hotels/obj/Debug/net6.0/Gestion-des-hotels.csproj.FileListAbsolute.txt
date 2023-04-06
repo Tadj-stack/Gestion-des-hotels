@@ -1,0 +1,15 @@
+C:\Users\eddin\OneDrive\Desktop\Projet AQL\Gestion-des-hotels\Gestion-des-hotels\Gestion-des-hotels\bin\Debug\net6.0\Gestion-des-hotels.exe
+C:\Users\eddin\OneDrive\Desktop\Projet AQL\Gestion-des-hotels\Gestion-des-hotels\Gestion-des-hotels\bin\Debug\net6.0\Gestion-des-hotels.deps.json
+C:\Users\eddin\OneDrive\Desktop\Projet AQL\Gestion-des-hotels\Gestion-des-hotels\Gestion-des-hotels\bin\Debug\net6.0\Gestion-des-hotels.runtimeconfig.json
+C:\Users\eddin\OneDrive\Desktop\Projet AQL\Gestion-des-hotels\Gestion-des-hotels\Gestion-des-hotels\bin\Debug\net6.0\Gestion-des-hotels.dll
+C:\Users\eddin\OneDrive\Desktop\Projet AQL\Gestion-des-hotels\Gestion-des-hotels\Gestion-des-hotels\bin\Debug\net6.0\Gestion-des-hotels.pdb
+C:\Users\eddin\OneDrive\Desktop\Projet AQL\Gestion-des-hotels\Gestion-des-hotels\Gestion-des-hotels\obj\Debug\net6.0\Gestion-des-hotels.csproj.AssemblyReference.cache
+C:\Users\eddin\OneDrive\Desktop\Projet AQL\Gestion-des-hotels\Gestion-des-hotels\Gestion-des-hotels\obj\Debug\net6.0\Gestion-des-hotels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eddin\OneDrive\Desktop\Projet AQL\Gestion-des-hotels\Gestion-des-hotels\Gestion-des-hotels\obj\Debug\net6.0\Gestion-des-hotels.AssemblyInfoInputs.cache
+C:\Users\eddin\OneDrive\Desktop\Projet AQL\Gestion-des-hotels\Gestion-des-hotels\Gestion-des-hotels\obj\Debug\net6.0\Gestion-des-hotels.AssemblyInfo.cs
+C:\Users\eddin\OneDrive\Desktop\Projet AQL\Gestion-des-hotels\Gestion-des-hotels\Gestion-des-hotels\obj\Debug\net6.0\Gestion-des-hotels.csproj.CoreCompileInputs.cache
+C:\Users\eddin\OneDrive\Desktop\Projet AQL\Gestion-des-hotels\Gestion-des-hotels\Gestion-des-hotels\obj\Debug\net6.0\Gestion-des-hotels.dll
+C:\Users\eddin\OneDrive\Desktop\Projet AQL\Gestion-des-hotels\Gestion-des-hotels\Gestion-des-hotels\obj\Debug\net6.0\refint\Gestion-des-hotels.dll
+C:\Users\eddin\OneDrive\Desktop\Projet AQL\Gestion-des-hotels\Gestion-des-hotels\Gestion-des-hotels\obj\Debug\net6.0\Gestion-des-hotels.pdb
+C:\Users\eddin\OneDrive\Desktop\Projet AQL\Gestion-des-hotels\Gestion-des-hotels\Gestion-des-hotels\obj\Debug\net6.0\Gestion-des-hotels.genruntimeconfig.cache
+C:\Users\eddin\OneDrive\Desktop\Projet AQL\Gestion-des-hotels\Gestion-des-hotels\Gestion-des-hotels\obj\Debug\net6.0\ref\Gestion-des-hotels.dll

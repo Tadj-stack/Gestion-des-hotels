@@ -18,11 +18,11 @@ namespace Gestion_des_hotels
         public string Prenom { get; set; }
         public string Email { get; set; }
         public string NbCarte { get; set; }
-        public string NbChambre { get; set; }
+        public int NbChambre { get; set; }
 
 
         //creation d'un constructeur qui intialise tout les atributs 
-        public Client(string nom, string prenom, string email, string nbCarte, string nbChambre)
+        public Client(string nom, string prenom, string email, string nbCarte, int nbChambre)
         {
             Nom = nom;
             Prenom = prenom;
@@ -36,7 +36,8 @@ namespace Gestion_des_hotels
         {
             return $"Le Nom de Client :{Nom}\n" +
                 $"Le Prenom de client :{Prenom}\n" +
-                $"L'Email du client :{Email}";
+                $"L'Email du client :{Email}" +
+                $"\n******************************";
         }
 
 

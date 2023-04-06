@@ -15,7 +15,7 @@
         //La redefinition de la methode toString
         public override string ToString()
         {
-            return $"Le Nom de l'Hotel :{NomDeHotel}\n";
+            return $"Le Nom de l'Hotel :{NomDeHotel}\n**************";
         }
 
 
