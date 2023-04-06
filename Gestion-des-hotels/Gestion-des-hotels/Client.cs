@@ -31,5 +31,23 @@ namespace Gestion_des_hotels
             NbChambre = nbChambre;
         }
 
+        //La redefinition de la methode toString pour convertir un client a une chaine de charactere
+        public override string ToString()
+        {
+            return $"Le Nom de Client :{Nom}\n" +
+                $"Le Prenom de client :{Prenom}\n" +
+                $"L'Email du client :{Email}";
+        }
+
+
+        //la redefinition de la methode equals pour comparer l'objet courant avec l'objet passer en paramtere
+        public override bool Equals(object? obj)
+        {
+           if (obj == null) return false;
+           if(!(obj is Client)) return false;
+           Client client = obj as Client;
+            return client.Nom.Equals(Nom)&&client.Prenom.Equals(Prenom)&&client.Email.Equals(Email);
+        }
+
     }
 }
