@@ -36,6 +36,8 @@
 
 
             hotel.AjouterClient(client10);
+            hotel.AjouterClient(client11);
+            hotel.AjouterClient(client12);
 
             
             hotel.SuppurimerClient(client12);
